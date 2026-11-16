@@ -11,3 +11,5 @@ outreach.csv
 master.tex
 applications/
 cache/
+# Made-up test fixtures are kept
+!hiring-team/tests/fixtures/*.csv
