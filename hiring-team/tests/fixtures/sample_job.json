@@ -1,0 +1,21 @@
+{
+  "source": "greenhouse",
+  "url": "https://boards.greenhouse.io/exampleco/jobs/4000001",
+  "fetched_at": "2026-11-11T15:04:00Z",
+  "company": "Example Co",
+  "title": "Data Engineer, New Grad, Data Platform",
+  "locations": ["Austin, TX"],
+  "workplace_type": "hybrid",
+  "employment_type": "",
+  "pay": null,
+  "description_text": "Job ID: R-4471\n\nExample Co builds route-planning software for regional freight carriers. You will join the Data Platform team, which owns the pipelines that feed pricing, dispatch and billing. You'll report to the Engineering Manager, Data Platform.\n\nWhat you will do\n\n- Build and run batch pipelines in Python and Airflow\n- Model warehouse tables in dbt and Snowflake\n\nWhat we look for\n\n- Python and SQL\n- Experience with Airflow or a similar scheduler\n\nExample Co is an equal opportunity employer.",
+  "requirements": {
+    "company": "Example Co",
+    "role": "Data Engineer",
+    "required_skills": ["Python", "SQL", "Airflow"],
+    "preferred_skills": ["dbt", "Snowflake", "Kubernetes"],
+    "keywords": ["ETL", "pipelines"],
+    "experience_years": 0,
+    "seniority_level": "entry"
+  }
+}
